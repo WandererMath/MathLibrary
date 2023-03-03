@@ -31,7 +31,6 @@ def No_2(N):
         N//=2
     return i, N
 
-
 def Rabin(p, a):
     n=p-1
     t, m=No_2(n)
