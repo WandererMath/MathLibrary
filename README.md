@@ -11,4 +11,4 @@ Caculate the base of natural logarithm in decimal notation. The Theorem about Ta
 
 ****************************************************************************************************
 
-Demenstrate Newton's law of gravitation and that planet orbits must be one of the three quadratic curves. 
+Demenstrate Newton's law of gravitation and that planet orbits are one of the three quadratic curves. 
